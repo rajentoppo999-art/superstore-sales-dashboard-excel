@@ -43,5 +43,7 @@ This dashboard helps in:
 - Improving analytical thinking using Excel  
 
 ---
+## 📷 Dashboard Preview
+![Dashboard Preview](https://github.com/rajen-toppo/superstore-sales-dashboard-excel/blob/main/Superstore-sales-dashboard%20230309.png)
 
 ✨ “Turning data into meaningful insights.”
